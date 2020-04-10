@@ -32,10 +32,10 @@ ul{
 ul{
     list-style: none;
 }
-img {
+.Thumbnail {
     float: left;
     padding: 5px;
-    background: #92cbde;
+    background: #92CBDE;
     border: 1px solid #999; 
 }
 .row::after{
