@@ -84,3 +84,14 @@ li a:hover {
   background-color: #999;
   text-decoration:none;
 }
+
+/*footer css*/
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #d5d5d5;
+   color: #4a4f57;
+   text-align: center;
+}
