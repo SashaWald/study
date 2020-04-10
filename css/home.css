@@ -35,6 +35,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+/*image styling*/
 
 figure {
     display: inline-block;
@@ -53,4 +54,28 @@ figure figcaption {
     background: #92CBDE;
     border: 1px solid #999;     
     padding: 5px;
+}
+/*table of contents styling*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
