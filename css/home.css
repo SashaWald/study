@@ -35,7 +35,7 @@ ul{
 .Thumbnail {
     float: left;
     padding: 5px;
-    background: #D652D9;
+    background: #92cbde;
     border: 1px solid #999; 
 }
 .row::after{
