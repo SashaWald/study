@@ -47,5 +47,6 @@ figure figcaption {
 .Thumbnail{
     background: #92CBDE;
     border: 1px solid #999;     
+    padding:5px;
 }
 
