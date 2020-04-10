@@ -34,8 +34,6 @@ ul{
 }
 figure {
     padding: 5px;
-    background: #92CBDE;
-    border: 1px solid #999; 
     display: inline-block;
     margin: 20px;
 }
@@ -45,5 +43,9 @@ figure img {
 figure figcaption {
     text-align: center;
     font-family: "Book Antiqua";
+}
+.Thumbnail{
+    background: #92CBDE;
+    border: 1px solid #999;     
 }
 
