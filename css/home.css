@@ -33,7 +33,6 @@ ul{
     list-style: none;
 }
 .Thumbnail {
-    float: left;
     padding: 5px;
     background: #92CBDE;
     border: 1px solid #999; 
