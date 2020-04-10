@@ -40,3 +40,6 @@ ul{
 .row::after{
   float:none;    
 }
+.caption{
+    color:blue;
+}
