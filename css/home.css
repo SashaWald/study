@@ -32,7 +32,7 @@ ul{
 ul{
     list-style: none;
 }
-img {
+.Thumbnail {
     float: left;
     padding: 5px;
     background: #D652D9;
