@@ -32,14 +32,18 @@ ul{
 ul{
     list-style: none;
 }
-.Thumbnail {
+figure {
     padding: 5px;
     background: #92CBDE;
     border: 1px solid #999; 
+    display: inline-block;
+    margin: 20px;
 }
-.row::after{
-  float:none;    
+figure img {
+    vertical-align: top;
 }
-.caption{
-    color:blue;
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
 }
+
